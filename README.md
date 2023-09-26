@@ -1,6 +1,6 @@
 # TEST STATUS
 
-[![Build status]()
+[![Build status](https://ci.appveyor.com/api/projects/status/y5ti7547n47024ak?svg=true)](https://ci.appveyor.com/project/ayostar/4-ra-homework-forms)
 
 [[Github Pages](https://ayostar.github.io/4-ra-homework-forms/)]
 
